@@ -14,6 +14,8 @@ object valuesVariablesTypes extends App{
   val bool:Boolean = true
 
   val b = "string"
+  
+  val c = "new"
 
 
 
