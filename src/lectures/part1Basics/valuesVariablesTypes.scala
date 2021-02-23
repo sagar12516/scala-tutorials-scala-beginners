@@ -13,6 +13,9 @@ object valuesVariablesTypes extends App{
   val achar:Char = 'a'
   val bool:Boolean = true
 
+  val b = "string"
+
+
 
 
 
